@@ -1,0 +1,16 @@
+<resources>
+    <!--    <string name="app_name">YouTube Player</string>-->
+    <string name="app_name">20670116 Stream Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_popular">Top</string>
+    <string name="action_now_playing">New Movies</string>
+
+    <string name="intent_id">INTENT_ID</string>
+    <string name="intent_title">INTENT_TITLE</string>
+    <string name="intent_description">INTENT_DESCRIPTION</string>
+    <string name="intent_image">INTENT_IMAGE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
